@@ -1,1 +1,1 @@
-**This repository covers units: 1, 2, and 3, lecture-wise also you can see the notes of Git, GitHub, and GitHub-Desktop.**
+**UNIT** 1, 2, 3 and **Practical Guide** for GIT, GITHUB and GITHUB-DESKTOP
